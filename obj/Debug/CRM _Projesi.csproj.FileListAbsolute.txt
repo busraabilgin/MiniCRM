@@ -1,0 +1,9 @@
+C:\Users\busra\OneDrive\Masaüstü\c# projelerim\CRM _Projesi\bin\Debug\CRM _Projesi.exe.config
+C:\Users\busra\OneDrive\Masaüstü\c# projelerim\CRM _Projesi\bin\Debug\CRM _Projesi.exe
+C:\Users\busra\OneDrive\Masaüstü\c# projelerim\CRM _Projesi\bin\Debug\CRM _Projesi.pdb
+C:\Users\busra\OneDrive\Masaüstü\c# projelerim\CRM _Projesi\obj\Debug\CRM _Projesi.csproj.AssemblyReference.cache
+C:\Users\busra\OneDrive\Masaüstü\c# projelerim\CRM _Projesi\obj\Debug\CRM__Projesi.Properties.Resources.resources
+C:\Users\busra\OneDrive\Masaüstü\c# projelerim\CRM _Projesi\obj\Debug\CRM _Projesi.csproj.GenerateResource.cache
+C:\Users\busra\OneDrive\Masaüstü\c# projelerim\CRM _Projesi\obj\Debug\CRM _Projesi.csproj.CoreCompileInputs.cache
+C:\Users\busra\OneDrive\Masaüstü\c# projelerim\CRM _Projesi\obj\Debug\CRM _Projesi.exe
+C:\Users\busra\OneDrive\Masaüstü\c# projelerim\CRM _Projesi\obj\Debug\CRM _Projesi.pdb

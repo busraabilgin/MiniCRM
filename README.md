@@ -55,6 +55,7 @@ Visual Studio üzerinden F5 ile projeyi başlatın
 📊 Grafik tabanlı dashboard
 🌐 Web veya mobil versiyon
 🔔 Otomatik bildirim sistemi
+
 👤 Geliştirici
 Ad Soyad: Büşra Bilgin
 
